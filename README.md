@@ -31,3 +31,6 @@ Key command:
 brew install homebrew/x11/xpdf
 ```
 
+## Notes:
+
+Ensure files within the target folder **do not contain spaces**.
